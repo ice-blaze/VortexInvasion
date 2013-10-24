@@ -1,0 +1,725 @@
+# depslib dependency file v1.0
+1317484778 source:c:\users\etienne\desktop\sdl projects\vortex invasion\classe_building.cpp
+	"Classe_Building.h"
+
+1321623829 c:\users\etienne\desktop\sdl projects\vortex invasion\classe_building.h
+	"constantes.h"
+	"Fonct_Main.h"
+
+1324503265 c:\users\etienne\desktop\sdl projects\vortex invasion\constantes.h
+
+1324556130 c:\users\etienne\desktop\sdl projects\vortex invasion\fonct_main.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"constantes.h"
+
+1320434487 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl.h
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255796864 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_platform.h
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\begin_code.h
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\close_code.h
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_keysym.h
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1314086665 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1324113908 source:c:\users\etienne\desktop\sdl projects\vortex invasion\classe_enemy.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+	"Classe_Enemy.h"
+
+1321623732 c:\users\etienne\desktop\sdl projects\vortex invasion\classe_enemy.h
+	<SDL.h>
+	"constantes.h"
+
+1330890033 source:c:\users\etienne\desktop\sdl projects\vortex invasion\classe_music.cpp
+	"Classe_Music.h"
+
+1330890033 c:\users\etienne\desktop\sdl projects\vortex invasion\classe_music.h
+	"SDL_mixer.h"
+	"Fonct_Main.h"
+
+1315924345 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1321012636 source:c:\users\etienne\desktop\sdl projects\vortex invasion\classe_timer.cpp
+	"Classe_Timer.h"
+	<SDL.h>
+
+1317464594 c:\users\etienne\desktop\sdl projects\vortex invasion\classe_timer.h
+
+1330806033 source:c:\users\etienne\desktop\sdl projects\vortex invasion\fonct_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<time.h>
+	"Classe_Enemy.h"
+	"Fonct_Main.h"
+
+1324556198 source:c:\users\etienne\desktop\sdl projects\vortex invasion\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<math.h>
+	<string>
+	"constantes.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_Enemy.h"
+	"Classe_BitmapFont.h"
+	"Classe_Building.h"
+	"Classe_Music.h"
+	"game.h"
+	"menu.h"
+
+1330810569 c:\users\etienne\desktop\sdl projects\vortex invasion\classe_bitmapfont.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1330890703 source:c:\users\etienne\desktop\sdl projects\vortex invasion\classe_bitmapfont.cpp
+	"Classe_BitmapFont.h"
+	"SDL.h"
+	"Classe_Music.h"
+
+1330890875 source:c:\users\etienne\desktop\sdl projects\vortex invasion\game.cpp
+	"game.h"
+
+1330807832 c:\users\etienne\desktop\sdl projects\vortex invasion\game.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_Enemy.h"
+	"Classe_BitmapFont.h"
+	"Classe_Music.h"
+	<sstream>
+
+1330810882 c:\users\etienne\desktop\sdl projects\vortex invasion\menu.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_BitmapFont.h"
+	"Classe_Building.h"
+	"Classe_Music.h"
+	"Classe_Button.h"
+
+1330889466 source:c:\users\etienne\desktop\sdl projects\vortex invasion\menu.cpp
+	"menu.h"
+	<time.h>
+
+1324555320 c:\users\etienne\desktop\sdl projects\vortex invasion\classe_bouton.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1324555019 source:c:\users\etienne\desktop\sdl projects\vortex invasion\classe_bouton.cpp
+	"Classe_bouton.h"
+	"SDL.h"
+
+1324555320 c:\users\etienne\desktop\sdl projects\vortex invasion\classe_button.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1324555391 source:c:\users\etienne\desktop\sdl projects\vortex invasion\classe_button.cpp
+	"Classe_Button.h"
+	"SDL.h"
+
+1330890703 source:d:\sdl projects\vortex invasion\classe_bitmapfont.cpp
+	"Classe_BitmapFont.h"
+	"SDL.h"
+	"Classe_Music.h"
+
+1330810569 d:\sdl projects\vortex invasion\classe_bitmapfont.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1324556130 d:\sdl projects\vortex invasion\fonct_main.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"constantes.h"
+
+1324503265 d:\sdl projects\vortex invasion\constantes.h
+
+1317464594 d:\sdl projects\vortex invasion\classe_timer.h
+
+1330890033 d:\sdl projects\vortex invasion\classe_music.h
+	"SDL_mixer.h"
+	"Fonct_Main.h"
+
+1317484778 source:d:\sdl projects\vortex invasion\classe_building.cpp
+	"Classe_Building.h"
+
+1321623829 d:\sdl projects\vortex invasion\classe_building.h
+	"constantes.h"
+	"Fonct_Main.h"
+
+1324555391 source:d:\sdl projects\vortex invasion\classe_button.cpp
+	"Classe_Button.h"
+	"SDL.h"
+
+1324555320 d:\sdl projects\vortex invasion\classe_button.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1324113908 source:d:\sdl projects\vortex invasion\classe_enemy.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+	"Classe_Enemy.h"
+
+1321623732 d:\sdl projects\vortex invasion\classe_enemy.h
+	<SDL.h>
+	"constantes.h"
+
+1330890033 source:d:\sdl projects\vortex invasion\classe_music.cpp
+	"Classe_Music.h"
+
+1321012636 source:d:\sdl projects\vortex invasion\classe_timer.cpp
+	"Classe_Timer.h"
+	<SDL.h>
+
+1330806033 source:d:\sdl projects\vortex invasion\fonct_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<time.h>
+	"Classe_Enemy.h"
+	"Fonct_Main.h"
+
+1330890875 source:d:\sdl projects\vortex invasion\game.cpp
+	"game.h"
+
+1330807832 d:\sdl projects\vortex invasion\game.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_Enemy.h"
+	"Classe_BitmapFont.h"
+	"Classe_Music.h"
+	<sstream>
+
+1324556198 source:d:\sdl projects\vortex invasion\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<math.h>
+	<string>
+	"constantes.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_Enemy.h"
+	"Classe_BitmapFont.h"
+	"Classe_Building.h"
+	"Classe_Music.h"
+	"game.h"
+	"menu.h"
+
+1330810882 d:\sdl projects\vortex invasion\menu.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_BitmapFont.h"
+	"Classe_Building.h"
+	"Classe_Music.h"
+	"Classe_Button.h"
+
+1330889466 source:d:\sdl projects\vortex invasion\menu.cpp
+	"menu.h"
+	<time.h>
+
+1330894303 source:d:\git repos\game_stock\vortex invasion\classe_bitmapfont.cpp
+	"Classe_BitmapFont.h"
+	"SDL.h"
+	"Classe_Music.h"
+
+1330814169 d:\git repos\game_stock\vortex invasion\classe_bitmapfont.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1324559730 d:\git repos\game_stock\vortex invasion\fonct_main.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"constantes.h"
+
+1324506865 d:\git repos\game_stock\vortex invasion\constantes.h
+
+1317468194 d:\git repos\game_stock\vortex invasion\classe_timer.h
+
+1330893633 d:\git repos\game_stock\vortex invasion\classe_music.h
+	"SDL_mixer.h"
+	"Fonct_Main.h"
+
+1317488378 source:d:\git repos\game_stock\vortex invasion\classe_building.cpp
+	"Classe_Building.h"
+
+1321627429 d:\git repos\game_stock\vortex invasion\classe_building.h
+	"constantes.h"
+	"Fonct_Main.h"
+
+1324558991 source:d:\git repos\game_stock\vortex invasion\classe_button.cpp
+	"Classe_Button.h"
+	"SDL.h"
+
+1324558920 d:\git repos\game_stock\vortex invasion\classe_button.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1324117508 source:d:\git repos\game_stock\vortex invasion\classe_enemy.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+	"Classe_Enemy.h"
+
+1321627332 d:\git repos\game_stock\vortex invasion\classe_enemy.h
+	<SDL.h>
+	"constantes.h"
+
+1330893633 source:d:\git repos\game_stock\vortex invasion\classe_music.cpp
+	"Classe_Music.h"
+
+1321016236 source:d:\git repos\game_stock\vortex invasion\classe_timer.cpp
+	"Classe_Timer.h"
+	<SDL.h>
+
+1330809633 source:d:\git repos\game_stock\vortex invasion\fonct_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<time.h>
+	"Classe_Enemy.h"
+	"Fonct_Main.h"
+
+1330894475 source:d:\git repos\game_stock\vortex invasion\game.cpp
+	"game.h"
+
+1330811432 d:\git repos\game_stock\vortex invasion\game.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_Enemy.h"
+	"Classe_BitmapFont.h"
+	"Classe_Music.h"
+	<sstream>
+
+1324559798 source:d:\git repos\game_stock\vortex invasion\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<math.h>
+	<string>
+	"constantes.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_Enemy.h"
+	"Classe_BitmapFont.h"
+	"Classe_Building.h"
+	"Classe_Music.h"
+	"game.h"
+	"menu.h"
+
+1330814482 d:\git repos\game_stock\vortex invasion\menu.h
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_BitmapFont.h"
+	"Classe_Building.h"
+	"Classe_Music.h"
+	"Classe_Button.h"
+
+1330893066 source:d:\git repos\game_stock\vortex invasion\menu.cpp
+	"menu.h"
+	<time.h>
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_platform.h
+
+1326114594 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 d:\dropbox\sdl projects\sdl-1.2.15\include\begin_code.h
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\close_code.h
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_keysym.h
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325814033 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325814540 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\dropbox\sdl projects\sdl-1.2.15\include\sdl_types.h
+	"SDL_stdinc.h"
+

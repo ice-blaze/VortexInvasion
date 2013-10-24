@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Classe_BitmapFont.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="5291" topLine="170" />
+	</File>
+	<File name="Classe_BitmapFont.h" open="0" top="0" tabpos="7">
+		<Cursor position="821" topLine="10" />
+	</File>
+	<File name="Classe_Building.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="32" topLine="0" />
+	</File>
+	<File name="Classe_Building.h" open="0" top="0" tabpos="14">
+		<Cursor position="477" topLine="0" />
+	</File>
+	<File name="Classe_Button.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="2" />
+	</File>
+	<File name="Classe_Enemy.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="838" topLine="31" />
+	</File>
+	<File name="Classe_Enemy.h" open="0" top="0" tabpos="3">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="Classe_Music.cpp" open="1" top="1" tabpos="7">
+		<Cursor position="97" topLine="9" />
+	</File>
+	<File name="Classe_Music.h" open="1" top="0" tabpos="8">
+		<Cursor position="99" topLine="0" />
+	</File>
+	<File name="Classe_Timer.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="37" topLine="0" />
+	</File>
+	<File name="Classe_Timer.h" open="0" top="0" tabpos="13">
+		<Cursor position="239" topLine="11" />
+	</File>
+	<File name="Fonct_Main.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="457" topLine="66" />
+	</File>
+	<File name="Fonct_Main.h" open="0" top="0" tabpos="1">
+		<Cursor position="173" topLine="0" />
+	</File>
+	<File name="constantes.h" open="0" top="0" tabpos="6">
+		<Cursor position="320" topLine="0" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="8880" topLine="246" />
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="2">
+		<Cursor position="142" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="15" />
+	</File>
+	<File name="main.h" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="37" />
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="5552" topLine="143" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="5">
+		<Cursor position="252" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
